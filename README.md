@@ -1,4 +1,4 @@
-# Eco-Card | the Arena Online presents: Friday Night Firefight ep. 1 pt. 3: 'Til It Sticks
+# Eco-Card | FalconHacks v2
 Welcome to EcoCard, a revolutionary app for sustainable living. With this application you can: Scan your receipts Discover eco-friendly products Earn SOL (DIGITAL CURRENCY → may redeem for products!)
 
 ## Inspiration
